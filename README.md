@@ -2,6 +2,8 @@
 
 A small macOS menu bar app that shows your open GitHub pull requests, grouped by status.
 
+![GitHub PR Bar menu showing grouped pull requests](menubar.png)
+
 ## Requirements
 
 - macOS 14 or newer
